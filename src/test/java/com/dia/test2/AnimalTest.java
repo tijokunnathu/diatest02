@@ -1,5 +1,6 @@
 package com.dia.test2;
 
+import com.dia.test2.components.Animal;
 import org.junit.Assert;
 import org.junit.Test;
 
